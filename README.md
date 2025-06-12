@@ -1,4 +1,4 @@
-# 👋 Hi, I'm spipa7-cit!
+# 👋 Hi, I'm spipa7!
 
 Welcome to my GitHub profile!
 
