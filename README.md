@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm spipa7-cit!
 
-<!--
-**spipa7-cit/spipa7-cit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+
+- 🏫 **Bizu at INPT:** Proud student at INPT, always eager to learn and grow.
+- 🏆 **#1 Bizu Award Winner:** Honored to be recognized as the top Bizu at INPT!
+- 🥇 **Certified Mfrw7:** Officially certified by Enstein.
+- 💻 **Languages & Skills:** Python, HTML, CSS, JavaScript
+
+---
+
+## 🌟 Fun Fact
+
+> Only she knows ...
+
+---
+
+Thanks for visiting my profile! 🚀
